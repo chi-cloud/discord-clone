@@ -53,11 +53,11 @@ Open the ``index.html`` file inside the ``dist/`` folder in your Web Browser.
 
 ## Authors
 
-👤 **Gabriel Santo**
+👤 **Chioma kanu**
 
-- GitHub: [@HeDevedUp](https://github.com/HeDeved)
-- Twitter: [@devtochi](https://twitter.com/devtochi)
-- LinkedIn: [jesse uzoma](https://linkedin.com/in/jesseuzoma/)
+- GitHub: [@chioma](https://github.com/HeDeved)
+- Twitter: [@chioma](https://twitter.com/devtochi)
+- LinkedIn: [chioma kanu](https://linkedin.com/in/jesseuzoma/)
 
 ## 🤝 Contributing
 
